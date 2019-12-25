@@ -1,0 +1,1 @@
+: compare-strings compare if ." Not the same." else ." They are the same." then cr ;
