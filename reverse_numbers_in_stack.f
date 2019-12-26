@@ -1,0 +1,1 @@
+: reverse depth 0 do i roll loop ;
