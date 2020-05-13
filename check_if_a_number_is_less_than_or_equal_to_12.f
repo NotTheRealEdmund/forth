@@ -1,0 +1,1 @@
+: ?SMALLER 12 <= IF ." It's less than or equal to 12" ELSE ." It is greater than 12" THEN ;
