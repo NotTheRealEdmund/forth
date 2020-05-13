@@ -1,0 +1,1 @@
+: loop-test  10 0 DO i . LOOP ;
