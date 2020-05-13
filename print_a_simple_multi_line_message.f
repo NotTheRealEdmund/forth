@@ -1,3 +1,3 @@
-: gift ." chocolate" ;
-: giver ." Mum" ;
-: thanks cr ." Dear " giver ." ," cr ."    Thanks for the " gift ." . " ;
+: gift  ." chocolate" ;
+: giver  ." Mum" ;
+: thanks  CR ." Dear " giver ." ," CR ."    Thanks for the " gift ." . " ;

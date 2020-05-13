@@ -1,2 +1,2 @@
 : factorial
-1 swap 1 + 1 ?do i * loop ;
+1 SWAP 1 + 1 DO i * LOOP ;

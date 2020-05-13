@@ -1,6 +1,6 @@
-: reverse depth 0 do i roll loop ;
+: reverse  DEPTH 0 DO i ROLL LOOP ;
 : advanced-show-input
-begin key dup dup emit 13 = until 
-cr drop
+BEGIN KEY DUP DUP EMIT 13 = UNTIL
+CR DROP
 reverse
-depth 0 do emit loop ;
+DEPTH 0 DO EMIT LOOP ;

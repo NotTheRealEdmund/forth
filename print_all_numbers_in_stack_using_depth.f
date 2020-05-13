@@ -1,2 +1,2 @@
 : print-all
-depth 0 do . loop ;
+DEPTH 0 DO . LOOP ;

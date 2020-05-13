@@ -1,1 +1,1 @@
-: compare-strings compare if ." Not the same." else ." They are the same." then cr ;
+: compare-strings  COMPARE IF ." Not the same." ELSE ." They are the same." THEN CR ;

@@ -1,1 +1,1 @@
-: reverse depth 0 do i roll loop ;
+: reverse  DEPTH 0 DO i ROLL LOOP ;
