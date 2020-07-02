@@ -1,4 +1,4 @@
-# forth
+# Forth
 To try out Forth, download SwiftForth free evaluation version<br/>
 Run SwiftForth IDE in C:\ForthInc-Evaluation\SwiftForth\bin\sf.exe<br/>
 It is recommended to create shortcut or pin it to taskbar for convenience for future use<br/>
